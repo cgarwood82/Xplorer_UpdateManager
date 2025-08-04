@@ -1,11 +1,11 @@
 #!/bin/bash
 
-CONFIG_FILE="/home/biqu/printer_data/config/variables.cfg"
-PLR_DIR="/home/biqu/printer_data/gcodes/plr/"
-TMP_FILE="/home/biqu/plrtmpA.$$"
-TMP_STAGE1="/home/biqu/plrstage1.$$"
-TMP_STAGE2="/home/biqu/plrstage2.$$"
-TMP_ZLIST="/home/biqu/plrzlist.$$"
+CONFIG_FILE="/home/xplorer/printer_data/config/variables.cfg"
+PLR_DIR="/home/xplorer/printer_data/gcodes/plr/"
+TMP_FILE="/home/xplorer/plrtmpA.$$"
+TMP_STAGE1="/home/xplorer/plrstage1.$$"
+TMP_STAGE2="/home/xplorer/plrstage2.$$"
+TMP_ZLIST="/home/xplorer/plrzlist.$$"
 
 mkdir -p "$PLR_DIR"
 
