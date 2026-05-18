@@ -6,7 +6,7 @@
 
 # Define the paths
 PASSWORD_FILE="/home/biqu/printer_data/config/.system_pass.txt"
-SERIAL_FILE="/home/biqu/printer_data/config/02__Boards_Serials/Mainboar_serial.cfg"
+SERIAL_FILE="/home/biqu/printer_data/config/02__Boards_Serials/Mainboard_serial.cfg"
 CONFIG_FILE="/home/biqu/printer_data/config/0_Xplorer/.9_MCU_Flash/MCU_config/BTT_Manta_M8P_V2.0/.config"
 KLIPPER_DIR="/home/biqu/klipper"
 
